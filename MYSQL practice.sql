@@ -1,3 +1,3 @@
-show databases;
 USE sakila;
-show tables;
+
+SELECT * FROM actor LIMIT 10;
